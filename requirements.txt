@@ -1,0 +1,9 @@
+Flask>=2.0.0
+pandas>=1.1.0
+numpy>=1.19.0
+quandl>=3.7.0
+bokeh>=2.4.0
+scikit-learn>=1.0.0
+matplotlib>=3.3.0
+seaborn>=0.11.0
+passlib>=1.7.4
